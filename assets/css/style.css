@@ -1,0 +1,60 @@
+.title{
+         margin-bottom: 10px;
+         text-align:center;
+         width: 210px;
+         color:dodgerblue;
+         border: solid black 2px;
+         margin-left: 43%;
+         }
+         input[type="button"]
+         {
+         background-color:lightblue;
+         color: black;
+         border: solid black 2px;
+         width:100%
+         }
+
+         input[type="text"]
+         {
+         background-color:white;
+         border: solid black 2px;
+         width:100%
+         }
+
+table{
+
+
+    margin-left: 43%;
+
+}
+
+.center{
+
+    text-align: center;
+}
+
+@media screen and (max-width: 736px) {
+    table{
+
+        margin-left: 32%;
+    }
+
+    .title{
+        margin-bottom: 10px;
+        width: 210px;
+        margin-left: 32%;
+    }
+    input[type="button"]
+    {
+
+        width:100%
+    }
+
+    input[type="text"]
+    {
+        width:100%
+    }
+
+}
+
+
